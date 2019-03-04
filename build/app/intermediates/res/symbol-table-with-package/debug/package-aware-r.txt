@@ -1,0 +1,4 @@
+com.keagan.flutter_python
+drawable launch_background
+mipmap ic_launcher
+style LaunchTheme

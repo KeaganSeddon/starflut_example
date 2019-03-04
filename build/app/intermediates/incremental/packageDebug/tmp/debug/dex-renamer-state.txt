@@ -1,0 +1,4 @@
+#Mon Mar 04 11:17:17 SAST 2019
+base.0=/Users/keagansed/Dropbox/EPI-USE/Research/Flutter_Python/flutter_python/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
